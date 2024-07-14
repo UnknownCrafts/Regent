@@ -1,3 +1,6 @@
+Credit: https://www.reddit.com/r/applescript/comments/107r8pq/apple_script_to_hide_or_unhide_the_menubar_and/
+Edited by: Unknown Crafts
+
 How to setup this shortcut:
 
 
