@@ -1,3 +1,6 @@
+Credit: https://gist.github.com/mjackson/6d0748fe44687877d3e44e0ef9172c9b
+Edited by: Unknown Crafts
+
 How to setup this shortcut:
 
 
