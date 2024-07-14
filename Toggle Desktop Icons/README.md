@@ -6,3 +6,12 @@ Copy the text in the script.sh, and input it in the shortcuts app like so:
 <picture>
 <img alt="Shows the way the script looks in apple shortcuts app." src="images/image.png">
 </picture>
+
+
+Next:
+
+Hide these in the root search by doing "control + h" when the command is highlighted
+
+<picture>
+<img alt="Hiding the existing commands in monarch search" src="images/image2.png">
+</picture>
