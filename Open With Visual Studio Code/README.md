@@ -1,3 +1,6 @@
+Credit: https://forum.keyboardmaestro.com/t/copy-path-of-finder-selection/1200/3
+Edited by: Unknown Crafts
+
 How to setup this shortcut:
 
 
