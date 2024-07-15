@@ -5,7 +5,7 @@ How to setup this shortcut:
 
 Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
-Copy the text in the script.sh, and input it in the shortcuts app like so:
+Copy the text in the [script.sh](script.sh), and input it in the shortcuts app like so:
 
 <picture>
 <img alt="Shows the way the script looks in apple shortcuts app." src="images/image.png">
