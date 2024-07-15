@@ -3,7 +3,7 @@ Edited by: Unknown Crafts
 
 How to setup this shortcut:
 
-Create a new shortcut, <a href="shortcuts://create-shortcut">click me</a>
+Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
 Copy the text in the [script.applescript](script.applescript), and input it in the shortcuts app like so:
 
