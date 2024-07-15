@@ -3,7 +3,7 @@ Edited by: Unknown Crafts
 
 How to setup this shortcut:
 
-Create a new shortcut, [click me](shortcuts://create-shortcut "Create a new shortcut hyperlink")
+Create a new shortcut, Create a new shortcut, <a href="shortcuts://create-shortcut">click me</a>
 
 Copy the text in the script.sh, and input it in the shortcuts app like so:
 
