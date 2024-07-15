@@ -5,7 +5,7 @@ How to setup this shortcut:
 
 Create a new shortcut, <a href="shortcuts://create-shortcut">click me</a>
 
-Copy the text in the script.applescript, and input it in the shortcuts app like so:
+Copy the text in the [script.applescript](script.applescript), and input it in the shortcuts app like so:
 
 <picture>
 <img alt="Shows the way the script looks in apple shortcuts app." src="images/image.png">
