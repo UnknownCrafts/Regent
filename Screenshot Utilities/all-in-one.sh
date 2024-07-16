@@ -1,0 +1,1 @@
+/System/Applications/Utilities/Screenshot.app/Contents/MacOS/Screenshot

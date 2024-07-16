@@ -8,7 +8,7 @@ Create a new shortcut, shortcuts://create-shortcut, copy and paste this into you
 Copy the text in the [script.applescript](script.applescript), and input it in the shortcuts app like so:
 
 <picture>
-<img alt="Shows the way the script looks in apple shortcuts app." src="images/image.png">
+<img alt="Shows the way the script looks in apple shortcuts app." src="media/image.png">
 </picture>
 
 Click the hammer button for goodluck :)

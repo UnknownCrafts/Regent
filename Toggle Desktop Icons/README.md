@@ -8,7 +8,7 @@ Create a new shortcut, shortcuts://create-shortcut, copy and paste this into you
 Copy the text in the [script.sh](script.sh), and input it in the shortcuts app like so:
 
 <picture>
-<img alt="Shows the way the script looks in apple shortcuts app." src="images/image.png">
+<img alt="Shows the way the script looks in apple shortcuts app." src="media/image.png">
 </picture>
 
 
@@ -17,7 +17,7 @@ Next:
 Hide these in the root search by doing "cmd + h" when the command is highlighted in Monarch launcher.
 
 <picture>
-<img alt="Hiding the existing commands in monarch search" src="images/image2.png">
+<img alt="Hiding the existing commands in monarch search" src="media/image2.png">
 </picture>
 
 
