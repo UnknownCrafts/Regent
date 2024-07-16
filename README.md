@@ -4,8 +4,7 @@ Basically click on any of the folders in this repo and follow instructions that 
 
 
 # Name Inspiration:
-
-Inspiration for the name (so that it goes along with theme of Monarch):
+(so that it goes along with theme of Monarch)
 
 A regent is a person who rules a country for a limited period, because the king or queen (Basically a monarch) is absent or too young, too ill, etc.
 
