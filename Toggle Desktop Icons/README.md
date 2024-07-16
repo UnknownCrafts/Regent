@@ -1,8 +1,13 @@
 Credit: https://gist.github.com/mjackson/6d0748fe44687877d3e44e0ef9172c9b
 Edited by: Unknown Crafts
 
-How to setup this shortcut:
+**How to setup this shortcut:**
 
+**Automatic Shortcut Setup:**
+
+
+
+**Manual Way:**
 Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
 Copy the text in the [script.sh](script.sh), and input it in the shortcuts app like so:

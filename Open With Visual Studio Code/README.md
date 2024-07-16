@@ -4,7 +4,7 @@ Edited by: Unknown Crafts
 
 **How to setup this shortcut(automatic setup):**
 
-Download the Open With Visual Studio Code.shortcut and double click on it to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
+Download the <a href="Open With Visual Studio Code.shortcut">vscode shortcut</a> and double click on it to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
 
 **How to setup this shortcut(manual setup):**
 
