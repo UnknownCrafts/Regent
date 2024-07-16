@@ -1,7 +1,12 @@
 Credit: https://forum.keyboardmaestro.com/t/copy-path-of-finder-selection/1200/3
 Edited by: Unknown Crafts
 
-How to setup this shortcut:
+
+How to setup this shortcut(automatic setup):
+
+Download the Open With Visual Studio Code.shortcut and double click on it to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
+
+How to setup this shortcut(manual setup):
 
 Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
