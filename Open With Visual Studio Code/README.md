@@ -4,7 +4,9 @@ Edited by: Unknown Crafts
 
 **How to setup this shortcut(automatic setup):**
 
-Download the [vscode shortcut](https://github.com/UnknownCrafts/Regent/raw/main/Open%20With%20Visual%20Studio%20Code/Open%20With%20Visual%20Studio%20Code.shortcut) and double click on it to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
+Download the shortcut, [click me](https://github.com/UnknownCrafts/Regent/raw/main/Open%20With%20Visual%20Studio%20Code/Open%20With%20Visual%20Studio%20Code.shortcut), and then double click on the downloaded file to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
+
+You are done, enjoy using the shortcut in Monarch!
 
 **How to setup this shortcut(manual setup):**
 
