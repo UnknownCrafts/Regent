@@ -19,6 +19,7 @@ Hide these in the root search by doing "cmd + h" when the command is highlighted
 You are done, go ahead close the shortcuts app and enjoy using the shortcut in Monarch!
 
 **Manual Way:**
+
 Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
 Copy the text in the [script.sh](script.sh), and input it in the shortcuts app like so:
