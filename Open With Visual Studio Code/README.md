@@ -5,6 +5,8 @@ Edited by: Unknown Crafts
 
 ![A gif showing how to use this shortcut](media/usage.gif)
 
+# Setup
+
 **How to setup this shortcut(automatic setup):**
 
 Download the shortcut, [click me](https://github.com/UnknownCrafts/Regent/raw/main/Open%20With%20Visual%20Studio%20Code/Open%20With%20Visual%20Studio%20Code.shortcut), and then double click on the downloaded file to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
