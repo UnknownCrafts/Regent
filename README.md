@@ -1,7 +1,7 @@
 # Usage of this repo:
 
+![A gif showing how to use this repo](media/usage.gif)
 Basically click on any of the folders in this repo and follow instructions that show up (if they don't show up then click on the readme.md file provided in each folder)
-
 
 # Name Inspiration:
 (so that it goes along with theme of Monarch)
