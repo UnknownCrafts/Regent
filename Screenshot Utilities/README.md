@@ -192,7 +192,7 @@ How to setup this shortcut:
 
 **Automatic Shortcut Setup:**
 
-Download the shortcut, [click me](https://github.com/UnknownCrafts/Regent/raw/main/Screenshot%20Utilities/shortcuts/Capture%2and%20Annotate.shortcut), and then double click on the downloaded file to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
+Download the shortcut, [click me](https://github.com/UnknownCrafts/Regent/raw/main/Screenshot%20Utilities/shortcuts/Capture%20and%20Annotate.shortcut), and then double click on the downloaded file to add it to the shortcuts app, you can delete the downloaded file after the shortcut has been added.
 
 You are done, go ahead close the shortcuts app and enjoy using the shortcut in Monarch!
 
