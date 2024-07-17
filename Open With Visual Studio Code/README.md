@@ -1,6 +1,9 @@
 Credit: https://forum.keyboardmaestro.com/t/copy-path-of-finder-selection/1200/3
 Edited by: Unknown Crafts
 
+# Usage of this shortcut:
+
+![A gif showing how to use this shortcut](media/usage.gif)
 
 **How to setup this shortcut(automatic setup):**
 
