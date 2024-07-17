@@ -6,6 +6,16 @@ Ported by: Unknown Crafts
 
 A set of shortcuts ported from the raycast "Screenshot" extension.
 
+# Jump to your desired shortcut:
+
+- [Capture Window To Clipboard](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-window-to-clipboard)
+- [Capture Screen](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-screen)
+- [Capture Timer](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-timer)
+- [Capture to Clipboard](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-to-clipboard)
+- [Capture and Annotate](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-and-annotate)
+- [All in One](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#all-in-one)
+- [Capture Area](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-area)
+- [Capture Window](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities#capture-window)
 
 # Capture Window To Clipboard
 
