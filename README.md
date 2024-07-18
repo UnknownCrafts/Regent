@@ -1,7 +1,7 @@
 # Appendix
 - [Shortcuts to try](https://github.com/UnknownCrafts/Regent/tree/main?tab=readme-ov-file#shortcuts-to-try)
 - [Usage of this repo](https://github.com/UnknownCrafts/Regent/tree/main?tab=readme-ov-file#usage-of-this-repo)
-- [name Inspiration](https://github.com/UnknownCrafts/Regent/tree/main?tab=readme-ov-file#name-inspiration)
+- [Name Inspiration](https://github.com/UnknownCrafts/Regent/tree/main?tab=readme-ov-file#name-inspiration)
 
 
 # Shortcuts to try:
