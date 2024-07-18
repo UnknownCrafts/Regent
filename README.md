@@ -1,3 +1,15 @@
+# Appendix
+- [Shortcuts to try](https://github.com/UnknownCrafts/Regent/tree/main#shortcuts-to-try:)
+- [Usage of this repo](https://github.com/UnknownCrafts/Regent/tree/main#usage-of-this-repo:)
+- [name Inspiration](https://github.com/UnknownCrafts/Regent/tree/main#name-inspiration:)
+
+
+# Shortcuts to try:
+- [Open With Visual Studio Code](https://github.com/UnknownCrafts/Regent/raw/main/Open%20With%20Visual%20Studio%20Code)
+- [Screenshot Utilities](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities)
+- [Toggle Desktop Icons](https://github.com/UnknownCrafts/Regent/raw/main/Toggle%20Desktop%20Icons)
+- [Toggle Menubar](https://github.com/UnknownCrafts/Regent/raw/main/Toggle%20Menubar)
+
 # Usage of this repo:
 
 ![A gif showing how to use this repo](media/usage.gif)
