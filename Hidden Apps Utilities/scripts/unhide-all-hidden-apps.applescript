@@ -1,0 +1,1 @@
+tell application "System Events" to set visible of (processes whose background only is false and visible is false) to true

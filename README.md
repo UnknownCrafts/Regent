@@ -9,6 +9,8 @@
 - [Screenshot Utilities](https://github.com/UnknownCrafts/Regent/tree/main/Screenshot%20Utilities)
 - [Toggle Desktop Icons](https://github.com/UnknownCrafts/Regent/raw/main/Toggle%20Desktop%20Icons)
 - [Toggle Menubar](https://github.com/UnknownCrafts/Regent/raw/main/Toggle%20Menubar)
+- [Hidden Apps Utilities](https://github.com/UnknownCrafts/Regent/tree/main/Hidden%20Apps%20Utilities)
+- [Widget Utilities](https://github.com/UnknownCrafts/Regent/tree/main/Widget%20Utilities)
 
 # Usage of this repo:
 
