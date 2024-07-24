@@ -1,6 +1,6 @@
-Credit: [Hide All Apps](https://www.macscripter.net/t/unhiding-all-applications/49217/5)
+Credit: [Unhide All Hidden Apps](https://www.macscripter.net/t/unhiding-all-applications/49217/5)
 
-Credit: [Unhide All Hidden Apps](https://github.com/raycast/extensions/blob/3ce63d81417d797bddc903c9a0e1a82ba1fda54b/extensions/hide-all-apps/src/index.tsx)
+Credit: [Hide All Apps](https://github.com/raycast/extensions/blob/3ce63d81417d797bddc903c9a0e1a82ba1fda54b/extensions/hide-all-apps/src/index.tsx)
 
 Ported by: Unknown Crafts
 
