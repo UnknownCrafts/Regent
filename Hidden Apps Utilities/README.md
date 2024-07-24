@@ -28,7 +28,7 @@ You are done, go ahead close the shortcuts app and enjoy using the shortcut in M
 
 Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
-Copy the text in the [hide-all-apps.sh](scripts/hide-all-apps.sh), and input it in the shortcuts app like so:
+Copy the text in the [hide-all-apps.applescript](scripts/hide-all-apps.applescript), and input it in the shortcuts app like so:
 
 <picture>
 <img alt="Shows the way the script looks in apple shortcuts app." src="media/image.png">
@@ -50,7 +50,7 @@ You are done, go ahead close the shortcuts app and enjoy using the shortcut in M
 
 Create a new shortcut, shortcuts://create-shortcut, copy and paste this into your browser.
 
-Copy the text in the [unhide-all-hidden-apps.sh](scripts/unhide-all-hidden-apps.sh), and input it in the shortcuts app like so:
+Copy the text in the [unhide-all-hidden-apps.applescript](scripts/unhide-all-hidden-apps.applescript), and input it in the shortcuts app like so:
 
 <picture>
 <img alt="Shows the way the script looks in apple shortcuts app." src="media/image1.png">
